@@ -1,0 +1,28 @@
+.header{
+    
+    min-height: 15v;
+    
+}
+
+
+.main{
+background-color: rgb(209, 14, 154);
+}
+.esquerda{
+    background-color: aquamarine;
+font-size: 5rem;
+}
+.direita{
+    background-color: chocolate;
+}
+
+.mainDiv{
+
+    min-height: 35vh;
+    background-color: cadetblue;
+}
+
+.footer{
+    min-height: 30vh;
+    background-color: rgb(114, 255, 147);
+}
